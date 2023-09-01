@@ -23,4 +23,6 @@ Normally things should be okay with your key and you can enter it into the applc
 To generate a summarization you'll need both the API key and the original text in the correct field.
 Upon generating the summarization, anything in the output field will be erased and a new output will be placed there after a few seconds.   
 
+To make the files into an executable program I used auto-py-to-exe.  
+
 Thank you for checking out this project.
